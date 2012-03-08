@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python
+Module=xmltools
+IAge=3
+Name=XML Tools
+Description=Useful tools for XML development
+Authors=Pascal Sachs <psachs@student.ethz.ch>, Simon Wenner <simon@wenner.ch>, Jono Finger <jono@foodnotblogs.com>
+Copyright=Copyright © 2008 Pascal Sachs <psachs@student.ethz.ch>, Simon Wenner <simon@wenner.ch>, Copyright © 2012 Jono Finger
+Website=https://launchpad.net/gedit-xmltools
